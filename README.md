@@ -83,4 +83,4 @@ main().catch((error) => {
 
 ---
 📢 **Author:** Yash Gupta  
-📧 **Email:** gup098@gmail.com
+📧 **Email:** ygup098@gmail.com
